@@ -40,7 +40,7 @@ North South University, Bangladesh
 C, C++, Java, Python, JavaScript, PHP, MySQL, HTML5, CSS
 ```
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=shaonbd&theme=blue-green&layout=compact)
-<br><br>
+<br>
 ### 📫 Me on the internet
 ```json
 {
