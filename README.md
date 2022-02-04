@@ -1,7 +1,7 @@
 # Faqrul Islam Shaon
 > Hello World! 👋
 
-[![Website](https://img.shields.io/badge/--website?label=Website&logo=chrome&style=social)](https://shaonbd.netlify.app)
+[![Website](https://img.shields.io/badge/--website?label=Website&logo=gatsby&style=social)](https://shaonbd.netlify.app)
 
 ### 🤔 Myself?
 ```
@@ -48,3 +48,5 @@ C, C++, Java, Python, JavaScript, PHP, MySQL, HTML5, CSS
   "linkedin": "https://www.linkedin.com/in/faqrul-islam-shaon-11808473/"
 }
 ```
+
+![Visitors](https://visitor-badge.laobi.icu/badge?page_id=shaonbd.shaonbd)
