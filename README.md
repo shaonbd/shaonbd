@@ -1,7 +1,7 @@
 # Faqrul Islam Shaon
 > Hello World! 👋
 
-[![Website](https://img.shields.io/badge/--website?label=Website&logo=safari&style=social)](https://shaonbd.netlify.app)
+[![Website](https://img.shields.io/badge/--website?label=Website&logo=chrome&style=social)](https://shaonbd.netlify.app)
 
 ### 🤔 Myself?
 ```
