@@ -1,12 +1,8 @@
-<h2 align="center"> 
-Faqrul Islam Shaon
-</h2>
-
-<h4 align="center"> 
-Hello World! <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="20">
+#Faqrul Islam Shaon
+>Hello World! <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="20">
   
 [![Website](https://img.shields.io/badge/--website?label=Website&logo=gatsby&style=social)](https://shaonbd.netlify.app)
-</h4>
+
 
 ### 🧑 Myself
 ```
