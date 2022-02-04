@@ -1,11 +1,11 @@
 <h2 align="center"> 
 Faqrul Islam Shaon
-  <br><hr>
+<hr></h2>
+<h4 align="center"> 
 Hello World! <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="20">
-<hr>
   
 [![Website](https://img.shields.io/badge/--website?label=Website&logo=gatsby&style=social)](https://shaonbd.netlify.app)
-</h2>
+</h4>
 
 ### 🧑 Myself
 ```
