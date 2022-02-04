@@ -39,7 +39,8 @@ North South University, Bangladesh
 ```bash
 C, C++, Java, Python, JavaScript, PHP, MySQL, HTML5, CSS
 ```
-
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=shaonbd&theme=blue-green&layout=compact)
+<br><br>
 ### 📫 Me on the internet
 ```json
 {
@@ -50,6 +51,5 @@ C, C++, Java, Python, JavaScript, PHP, MySQL, HTML5, CSS
   "linkedin": "https://www.linkedin.com/in/faqrul-islam-shaon-11808473/"
 }
 ```
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=shaonbd&theme=blue-green&layout=compact)
-<br><br>
+
 ![Visitors](https://visitor-badge.laobi.icu/badge?page_id=shaonbd.shaonbd)
